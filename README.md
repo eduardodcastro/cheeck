@@ -16,6 +16,16 @@ project on git
   <li>react-navigation</li>
 </ul>
 
+## qrCode images  
+<table >
+	<tbody>
+		<tr>
+			<td>![qrCode Error](/src/assets/images_readme/qrcode_error.png)</td>
+			<td>![qrCode Success](/src/assets/images_readme/qrcode_success.png)</td>
+		</tr>
+	</tbody>
+</table>
+
 ## user test 
 ```bash
 user: user@cheeck.com
