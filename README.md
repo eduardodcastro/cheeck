@@ -1,5 +1,5 @@
 # cheeck
-project on git
+control and organization of cards, loyalty program
 
 ## react native version
 <b><i>version: 0.58.5</i></b>
@@ -14,6 +14,15 @@ project on git
   <li>react-native-qrcode-scanner</li>
   <li>react-native-vector-icons</li>
   <li>react-navigation</li>
+</ul>
+
+## main features
+<ul>
+  <li>user registration</li>
+  <li>authentication login</li>
+  <li>lists stores and cards</li>
+  <li>locations on the map</li>
+  <li>qrcode reading</li>
 </ul>
 
 ## qrCode images  
