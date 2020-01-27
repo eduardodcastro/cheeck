@@ -20,8 +20,8 @@ project on git
 <table >
 	<tbody>
 		<tr>
-			<td>![qrCode Error](/src/assets/images_readme/qrcode_error.png)</td>
-			<td>![qrCode Success](/src/assets/images_readme/qrcode_success.png)</td>
+			<td>![qrCode Error](https://github.com/eduardodcastro/cheeck/blob/master/src/assets/images_readme/qrcode_error.png)</td>
+			<td>![qrCode Success](https://github.com/eduardodcastro/cheeck/blob/master/src/assets/images_readme/qrcode_success.png)</td>
 		</tr>
 	</tbody>
 </table>
