@@ -28,9 +28,9 @@
         @mipmap/ic_launcher_round
       -->
 
-      <meta-data
+      <!-- <meta-data
         android:name="com.google.android.geo.API_KEY"
-        android:value="AIzaSyCh0rTRO_q3ZqB_S5CieGWGuxCY_XNktt4"/>
+        android:value="AIzaSyCh0rTRO_q3ZqB_S5CieGWGuxCY_XNktt4"/> -->
 
       <activity
         android:name=".MainActivity"
